@@ -1,0 +1,3 @@
+usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE> # <- GT4500
+No ship has been initialized # <- TORPEDO
+Unknown command: 'SOMETHING_UNKNOWN' # <- unknown command

@@ -1,0 +1,5 @@
+SUCCESS # <- GT4500
+SUCCESS # <- TORPEDO from primary
+FAIL # <- TORPEDO from secondary
+SUCCESS # <- TORPEDO from primary
+FAIL # <- TORPEDO from secondary
