@@ -1,0 +1,4 @@
+# Secondary store is empty, only primary can fire
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

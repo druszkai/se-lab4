@@ -1,0 +1,4 @@
+# Testing failure to launch caused by high failure rate
+GT4500,1,1,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
